@@ -1,10 +1,10 @@
-# Hola! acabas de accesar a la pagina de prueba
+# ¡Hola!, acabas de ingresar a la pagina de prueba
 
 ## Este es un segundo encabezado (H2) de prueba
 
 ### Este es un tercer encabezado (H3) de prueba
 
-1. Asi se crean las listas
+1. Así se crean las listas
 2. Segunda 
 4. Es posible saltar posiciones
 
