@@ -14,3 +14,7 @@
 
 Haz clic [aqui](page2.md) para acceder a la siguente pagina del tutorial
 
+1. Aqui abajo va una imagen
+   ![]()
+2. sigue la lista
+3. :D
